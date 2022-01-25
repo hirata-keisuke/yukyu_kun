@@ -15,13 +15,13 @@
 python3 app.py
 ```
 
-<img src="./static/input_screen.png" alt="input" title="input" width="200" height="200">
+<img src="./static/input_screen.png" alt="input" title="input">
 
-<img src="./static/result_screen.png" alt="result" title="result" width="200" height="200">
+<img src="./static/result_screen.png" alt="result" title="result">
 
 ## 開発途中
 
-- 2022/02/10~2022/03/21のように取得期間を入れるが、現状は2022/02/01~2022/03/31に変換しちゃいます
+- 2022/02/10-2022/03/21のように取得期間を入れるが、現状は2022/02/01-2022/03/31に変換しちゃいます
 
 - 独自の休暇はまだ使っていません
 
